@@ -11,7 +11,8 @@
 }
 
 .bg-bottom {
-    background-color: var(--h-title-color);
+    background-color: #f2f2f2;
+    color: #000;
 }
 
 .top-section {
